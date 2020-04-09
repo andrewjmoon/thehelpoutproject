@@ -13,9 +13,10 @@ const useStyles = makeStyles((theme) => ({
     overflow: 'hidden',
     justifyContent: 'center',
     textAlign: 'center',
+    display: 'block'
   },
   paper: {
-    maxWidth: 500,
+    maxWidth: 800,
     margin: `${theme.spacing(1)}px auto`,
     padding: theme.spacing(2),
     backgroundColor: 'lightblue',
