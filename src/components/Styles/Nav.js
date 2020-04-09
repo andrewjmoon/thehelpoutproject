@@ -70,8 +70,8 @@ export default function ButtonAppBar(side) {
               Home
             </Link>
           </Typography>
-          <Typography variant="h6" className={classes.title}>
-            The Help Out Project
+          <Typography variant="h5" className={classes.title}>
+            Help Out
           </Typography>
           <IconButton
             edge="start"
