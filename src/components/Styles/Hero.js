@@ -38,7 +38,9 @@ function ProductHero(props) {
       <HeroLayout backgroundClassName={classes.background}>
         {/* Increase the network loading priority of the background image. */}
         <img style={{ display: 'none' }} src={backgroundImage} alt="" />
-       
+        <Button component={Link} to="/menu" variant="contained" color="primary">
+          Home Page
+        </Button>
         <Typography
           align="center"
           variant="h4"
@@ -47,9 +49,6 @@ function ProductHero(props) {
         >
           How to help out during the Covid-19 crisis.
         </Typography>
-        <Button component={Link} to="/menu" variant="contained" color="primary">
-          Home Page
-        </Button>
       </HeroLayout>
     </div>
   );
