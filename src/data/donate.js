@@ -4,7 +4,7 @@ let data = [
     name: 'GetUsPPE',
     type:
       'Helping to provide Personal Protective Equipment to hospital workers on the frontline.',
-    area: 'Unites States and International',
+    area: 'United States and International',
     info: 'https://getusppe.org/donate/',
   },
   {
@@ -35,7 +35,7 @@ let data = [
     id: 5,
     name: 'Get Shift Done',
     type:
-      'Providing hunger relief to communites and giving jobs to the affected food/beverage workforce.',
+      'Providing hunger relief to communities and giving jobs to the affected food/beverage workforce.',
     area: 'North Texas and El Paso',
     info: 'https://www.getshiftdone.org/',
   },
@@ -65,7 +65,7 @@ let data = [
   {
     id: 9,
     name: 'CityMeals on Wheels',
-    type: 'Proving meals to elderly citizens in the New York area.',
+    type: 'Providing meals to elderly citizens in the New York area.',
     area: 'New York City',
     info: 'https://www.citymeals.org/',
   },
@@ -78,7 +78,7 @@ let data = [
   },
   {
     id: 11,
-    name: 'Invisibile Hands',
+    name: 'Invisible Hands',
     type: 'Delivering food to the elderly for free.',
     area: 'New York City and New Jersey',
     info: 'https://www.invisiblehandsdeliver.com/donate',

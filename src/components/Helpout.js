@@ -63,7 +63,7 @@ function Helpout() {
                 <b>Description: {a.type}</b>
               </ListItem>
               <ListItem variant="h3" justify="center" className={classes.root}>
-                <b>Notable- {a.area}</b>
+                <b>Area- {a.area}</b>
               </ListItem>
               <br />
               <ListItem justify="center" className={classes.root}>
